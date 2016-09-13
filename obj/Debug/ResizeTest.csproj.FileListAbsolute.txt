@@ -1,6 +1,0 @@
-c:\users\giuseppe\documents\visual studio 2013\Projects\ResizeTest\ResizeTest\bin\Debug\ResizeTest.exe.config
-c:\users\giuseppe\documents\visual studio 2013\Projects\ResizeTest\ResizeTest\obj\Debug\ResizeTest.csprojResolveAssemblyReference.cache
-c:\users\giuseppe\documents\visual studio 2013\Projects\ResizeTest\ResizeTest\bin\Debug\ResizeTest.exe
-c:\users\giuseppe\documents\visual studio 2013\Projects\ResizeTest\ResizeTest\bin\Debug\ResizeTest.pdb
-c:\users\giuseppe\documents\visual studio 2013\Projects\ResizeTest\ResizeTest\obj\Debug\ResizeTest.exe
-c:\users\giuseppe\documents\visual studio 2013\Projects\ResizeTest\ResizeTest\obj\Debug\ResizeTest.pdb
